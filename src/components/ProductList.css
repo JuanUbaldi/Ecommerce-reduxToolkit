@@ -1,0 +1,10 @@
+.flexProducts {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 35px;
+}
+.cardBody {
+  background-color: rgb(162, 170, 162);
+}

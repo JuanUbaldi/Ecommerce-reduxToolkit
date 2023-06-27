@@ -1,0 +1,23 @@
+.index {
+  height: 2300px;
+  background-color: rgb(196, 223, 196);
+}
+.h1Tienda {
+  color: rgb(91, 106, 94);
+  text-align: center;
+}
+
+.form {
+  width: 30%;
+  margin: 100px auto;
+  border-radius: 20px;
+  border: green 1px solid;
+}
+.adressLabel,
+.passwordLabel {
+  margin-left: 40%;
+}
+
+.buttonForm {
+  margin-left: 40%;
+}
